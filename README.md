@@ -6,6 +6,12 @@ This project demonstrates the design of a secure and scalable enterprise network
 
 The project focuses on practical networking concepts including VLAN segmentation, subnetting, switching, routing, DHCP, DNS, wireless networking, and network security.
 
+## Network Topology
+
+The following diagram illustrates the logical architecture of the simulated enterprise network, including perimeter security, Layer 3 routing, access switching, server infrastructure, wireless connectivity, and VLAN segmentation.
+
+![Enterprise Network Topology](network-topology.png)
+
 ## 🎯 Project Objectives
 
 - Design a scalable enterprise network architecture
