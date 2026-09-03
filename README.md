@@ -12,6 +12,15 @@ The following diagram illustrates the logical architecture of the simulated ente
 
 ![Enterprise Network Topology](diagrams/network-topology.png)
 
+## 📁 Project Documentation
+
+Explore the technical documentation for this project:
+
+- [IP Addressing & VLAN Plan](addressing/ip-addressing-plan.md) — VLAN assignments, subnet structure, default gateways, DHCP ranges, and addressing strategy.
+- [Network Design Documentation](documentation/network-design.md) — Architecture, switching, routing, wireless connectivity, traffic flow, and scalability.
+- [Security Considerations](documentation/security-considerations.md) — Network segmentation, ACL strategy, guest isolation, management security, firewalling, endpoint protection, and monitoring.
+- [Example Cisco Configurations](configs/example-configurations.md) — Example VLAN, SVI, trunk, DHCP, ACL, port-security, SSH, and verification commands.
+- [Network Topology Diagram](diagrams/network-topology.png) — Microsoft Visio diagram illustrating the complete simulated enterprise architecture.
 ## 🎯 Project Objectives
 
 - Design a scalable enterprise network architecture
