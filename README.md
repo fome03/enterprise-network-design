@@ -10,7 +10,7 @@ The project focuses on practical networking concepts including VLAN segmentation
 
 The following diagram illustrates the logical architecture of the simulated enterprise network, including perimeter security, Layer 3 routing, access switching, server infrastructure, wireless connectivity, and VLAN segmentation.
 
-![Enterprise Network Topology](network-topology.png)
+![Enterprise Network Topology](diagrams/network-topology.png)
 
 ## 🎯 Project Objectives
 
